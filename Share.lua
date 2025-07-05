@@ -40,7 +40,7 @@ local injected = false
 
 --Properties:
 
-SynapseXreal.Name = "Synapse X (real)"
+SynapseXreal.Name = "Syn"
 SynapseXreal.Parent = game.CoreGui
 SynapseXreal.ResetOnSpawn = false
 
